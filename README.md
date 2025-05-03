@@ -1,6 +1,7 @@
 # Khanfar Phone Tool
 
-![Khanfar Phone Tool](1.ico)
+![Screenshot 2025-05-03 194953](https://github.com/user-attachments/assets/0ff3da91-3f90-451f-a30e-9d9eb6185a97)
+
 
 ## Overview
 Khanfar Phone Tool is a powerful digital forensics utility designed for Android device data extraction and analysis. This tool provides law enforcement, forensic investigators, and security professionals with a streamlined interface to extract, catalog, and manage digital evidence from Android devices.
